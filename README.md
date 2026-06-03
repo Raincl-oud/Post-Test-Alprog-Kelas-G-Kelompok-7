@@ -3,15 +3,15 @@ Proyek analisis data dan visualisasi infografis untuk Post-Test Praktikum Algori
 
 ## 👥 Rincian Anggota & Pembagian Tugas (Jobdesk)
 
--   Muhamad Rafif Imtiyaz - [21060125140171]
-    A.   Pemrograman Python (Agregasi, Tren, Korelasi, Distribusi)
-    B.   Penggabungan visualisasi data ke dalam grid (Dashboard)
--   **[Nama Temen 1] - [NIM Temen 1]**
-    A.   Desain Infografis
-    B.   Penyusunan *insight* edukatif untuk audiens awam
--   **[Nama Temen 2] - [NIM Temen 2]**
-    A.   Manajemen Repositori GitHub
-    B.   Publikasi tugas ke LinkedIn dan Instagram
+*   **Muhamad Rafif Imtiyaz - [21060125140171]**
+    *   Pemrograman Python (Agregasi, Tren, Korelasi, Distribusi)
+    *   Penggabungan visualisasi data ke dalam grid (Dashboard)
+*   **[Nama Temen 1] - [NIM Temen 1]**
+    *   Desain Infografis
+    *   Penyusunan *insight* edukatif untuk audiens awam
+*   **[Nama Temen 2] - [NIM Temen 2]**
+    *   Manajemen Repositori GitHub
+    *   Publikasi tugas ke LinkedIn dan Instagram
 
 ## 📁 Komponen Pengumpulan Tugas
 1. Berkas **Source Code**: `.ipynb` 
