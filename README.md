@@ -1,4 +1,4 @@
-# 📊 Post Test Praktikum Algoritma dan Pemrograman 2026 - Kelas G Kelompok 7
+# 📊 Post Test Praktikum Algoritma dan Pemrograman 2026
 Proyek analisis data dan visualisasi infografis untuk Post-Test Praktikum Algoritma dan Pemrograman 2026 - Kelas G Kelompok 7
 
 ## 👥 Rincian Anggota & Pembagian Tugas (Jobdesk)
