@@ -6,7 +6,7 @@ Proyek analisis data dan visualisasi infografis untuk Post-Test Praktikum Algori
 *   **Muhamad Rafif Imtiyaz - [21060125140171]**
     *   Pemrograman Python (Agregasi, Tren, Korelasi, Distribusi)
     *   Penggabungan visualisasi data ke dalam grid (Dashboard)
-*   **[Nama Temen 1] - [NIM Temen 1]**
+*   **Muhammad Faiz Ramadhan - [21060125130085]**
     *   Desain Infografis
     *   Penyusunan *insight* edukatif untuk audiens awam
 *   **[Nama Temen 2] - [NIM Temen 2]**
